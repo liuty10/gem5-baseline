@@ -1,3 +1,12 @@
+This is the original version of gem5 simulator.
+Each time, you lauch a new project, you should start from this version.
+
+How to compile:
+
+cd gem5-baseline
+scons ./build/X86/gem5.opt -j16
+
+
 This is the gem5 simulator.
 
 The main website can be found at http://www.gem5.org

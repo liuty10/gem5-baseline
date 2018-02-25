@@ -1,6 +1,6 @@
 ../build/X86/gem5.opt \
 ../configs/example/se.py \
---cmd=../../test2/spectre \
+--cmd=../tests/spectre/spectre \
 --cpu-type=DerivO3CPU \
 --mem-type=DDR4_2400_16x4 \
 --cpu-clock=2GHz \
